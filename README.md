@@ -45,8 +45,5 @@ Users should be able to:
 - Typescript
 - Chakra UI
 
-## Author
-
-- Website - [iqballa24](https://github.com/iqballa24)
 
 
